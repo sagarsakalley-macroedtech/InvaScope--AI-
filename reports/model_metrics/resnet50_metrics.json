@@ -1,0 +1,46 @@
+{
+  "architecture": "ResNet-50",
+  "classes": [
+    "Ailanthus_altissima",
+    "Lantana_camara",
+    "Parthenium_hysterophorus",
+    "Prosopis_juliflora"
+  ],
+  "train_images": 56,
+  "validation_images": 12,
+  "test_images": 12,
+  "test_accuracy": 0.6666666666666666,
+  "test_macro_f1": 0.6857142857142857,
+  "confusion_matrix": [
+    [
+      2,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      2
+    ]
+  ],
+  "per_class_f1": {
+    "Ailanthus_altissima": 0.5714285714285714,
+    "Lantana_camara": 0.8,
+    "Parthenium_hysterophorus": 0.8,
+    "Prosopis_juliflora": 0.5714285714285714
+  }
+}

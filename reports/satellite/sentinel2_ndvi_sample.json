@@ -1,0 +1,22 @@
+{
+  "project_id": "invascope-ai",
+  "source": "COPERNICUS/S2_SR_HARMONIZED",
+  "analysis_timestamp_utc": "2026-10-10T07:51:56.399710+00:00",
+  "observation": {
+    "latitude": 12.820713,
+    "longitude": 77.826347,
+    "country": "India",
+    "species": "Lantana camara",
+    "reported_name": "Lantana camara L.",
+    "gbif_id": "5938031847"
+  },
+  "analysis": {
+    "start_date": "2025-01-01",
+    "end_date_exclusive": "2026-01-01",
+    "buffer_meters": 500,
+    "maximum_scene_cloud_percentage": 30,
+    "matching_scenes": 61,
+    "mean_ndvi": 0.37794488685624933
+  },
+  "interpretation": "NDVI is a vegetation greenness indicator, not a species identification or proof of invasive plant presence. Scene-level cloud filtering does not guarantee that every pixel is cloud-free."
+}

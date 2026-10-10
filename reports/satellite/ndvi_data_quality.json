@@ -1,0 +1,26 @@
+{
+  "input_file": "data\\processed\\gbif_occurrences_ndvi.csv",
+  "total_records": 99,
+  "records_with_valid_ndvi": 99,
+  "records_without_valid_ndvi": 0,
+  "ndvi_coverage_percent": 100.0,
+  "mean_ndvi": 0.4194,
+  "minimum_ndvi": -0.3325,
+  "maximum_ndvi": 0.8425,
+  "status_counts": {
+    "ok": 99
+  },
+  "country_counts": {
+    "India": 48,
+    "United States of America": 51
+  },
+  "species_counts": {
+    "Lantana camara L.": 20,
+    "Prosopis juliflora (Sw.) DC.": 20,
+    "Parthenium hysterophorus L.": 20,
+    "Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep": 20,
+    "Ailanthus altissima (Mill.) Swingle": 18,
+    "Prosopis juliflora var. juliflora": 1
+  },
+  "quality_note": "NDVI indicates vegetation greenness, not species identity. Review coordinate uncertainty, observation dates, cloud masking and missing values before scientific conclusions."
+}

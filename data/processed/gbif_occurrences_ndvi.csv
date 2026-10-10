@@ -1,0 +1,100 @@
+latitude,longitude,species,country,ndvi,status
+19.35401,83.78758,Lantana camara L.,India,0.486139,ok
+33.25847,-115.23282,Prosopis juliflora (Sw.) DC.,United States of America,0.065205,ok
+25.412353,81.84825,Parthenium hysterophorus L.,India,0.473592,ok
+30.257913,-97.757612,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,United States of America,0.452439,ok
+11.709469,78.1898,Parthenium hysterophorus L.,India,0.451904,ok
+31.705558,77.056266,Ailanthus altissima (Mill.) Swingle,India,0.586227,ok
+32.655399,-85.43453,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,United States of America,0.664384,ok
+29.52223,-95.803129,Parthenium hysterophorus L.,United States of America,0.475702,ok
+18.525906,73.655154,Lantana camara L.,India,0.344984,ok
+11.308603,79.155344,Parthenium hysterophorus L.,India,0.551297,ok
+22.083867,-159.327602,Parthenium hysterophorus L.,United States of America,0.653231,ok
+25.385185,81.878367,Parthenium hysterophorus L.,India,0.219455,ok
+23.233275,69.795167,Prosopis juliflora (Sw.) DC.,India,0.281862,ok
+21.323709,-157.819681,Lantana camara L.,United States of America,0.842522,ok
+33.797509,-84.228775,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,United States of America,0.49419,ok
+25.413314,81.846528,Lantana camara L.,India,0.421816,ok
+26.230358,-80.297969,Parthenium hysterophorus L.,United States of America,0.388584,ok
+34.217001,74.359662,Ailanthus altissima (Mill.) Swingle,India,0.410627,ok
+28.502897,-81.49653,Lantana camara L.,United States of America,0.531423,ok
+36.232842,-78.829825,Ailanthus altissima (Mill.) Swingle,United States of America,0.681462,ok
+42.710308,-70.788636,Ailanthus altissima (Mill.) Swingle,United States of America,-0.206203,ok
+16.715807,79.243333,Parthenium hysterophorus L.,India,0.51165,ok
+39.329205,-77.751258,Ailanthus altissima (Mill.) Swingle,United States of America,0.618372,ok
+30.470951,78.047337,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,India,0.670864,ok
+21.97971,-159.75712,Prosopis juliflora (Sw.) DC.,United States of America,0.138292,ok
+27.49668,-82.6773,Lantana camara L.,United States of America,0.488779,ok
+21.302734,-157.884203,Prosopis juliflora (Sw.) DC.,United States of America,-0.057554,ok
+33.986084,74.794434,Ailanthus altissima (Mill.) Swingle,India,0.347819,ok
+31.56205,77.900228,Ailanthus altissima (Mill.) Swingle,India,0.476429,ok
+25.413314,81.846528,Lantana camara L.,India,0.421816,ok
+41.377852,-76.767591,Ailanthus altissima (Mill.) Swingle,United States of America,0.717002,ok
+20.996479,-156.662659,Parthenium hysterophorus L.,United States of America,0.445351,ok
+26.931945,-81.314411,Lantana camara L.,United States of America,0.680687,ok
+43.19305,-77.513358,Ailanthus altissima (Mill.) Swingle,United States of America,0.561992,ok
+21.390683,-157.841417,Lantana camara L.,United States of America,0.825337,ok
+41.314284,-72.874252,Ailanthus altissima (Mill.) Swingle,United States of America,0.526153,ok
+21.293632,-157.661412,Prosopis juliflora (Sw.) DC.,United States of America,0.255312,ok
+18.160183,76.050817,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,India,0.344136,ok
+36.475648,-82.25653,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,United States of America,0.595563,ok
+28.50922,77.41354,Prosopis juliflora (Sw.) DC.,India,0.216505,ok
+34.17,74.75,Ailanthus altissima (Mill.) Swingle,India,0.47682,ok
+34.48166,-89.598822,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,United States of America,0.65327,ok
+35.463978,-82.428716,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,United States of America,0.590405,ok
+20.978951,75.600336,Lantana camara L.,India,0.172585,ok
+26.762772,-80.924745,Parthenium hysterophorus L.,United States of America,0.570299,ok
+27.714103,-97.328824,Parthenium hysterophorus L.,United States of America,0.146575,ok
+34.14713,74.824556,Ailanthus altissima (Mill.) Swingle,India,0.272996,ok
+17.491347,78.302781,Parthenium hysterophorus L.,India,0.542824,ok
+32.713889,-85.602317,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,United States of America,0.738614,ok
+22.052708,-159.659225,Lantana camara L.,United States of America,0.674852,ok
+11.431003,76.859883,Lantana camara L.,India,0.676325,ok
+21.264937,-157.693635,Prosopis juliflora (Sw.) DC.,United States of America,0.083145,ok
+24.900446,75.528838,Lantana camara L.,India,0.362567,ok
+34.147085,74.824751,Ailanthus altissima (Mill.) Swingle,India,0.273981,ok
+26.914891,75.821237,Parthenium hysterophorus L.,India,0.301347,ok
+11.0,76.9667,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,India,0.240826,ok
+23.851105,69.73462,Prosopis juliflora (Sw.) DC.,India,0.217831,ok
+38.700203,-75.89725,Ailanthus altissima (Mill.) Swingle,United States of America,0.583995,ok
+39.348631,-76.114111,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,United States of America,0.611741,ok
+22.609086,88.463621,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,India,0.486574,ok
+13.328445,74.719464,Lantana camara L.,India,0.317235,ok
+25.435246,81.921914,Prosopis juliflora (Sw.) DC.,India,0.32944,ok
+21.98896,-159.74792,Prosopis juliflora (Sw.) DC.,United States of America,0.294518,ok
+25.409689,81.851862,Parthenium hysterophorus L.,India,0.487906,ok
+30.34012,-97.69432,Parthenium hysterophorus L.,United States of America,0.215272,ok
+18.693954,79.036186,Parthenium hysterophorus L.,India,0.510754,ok
+21.464547,-158.094386,Parthenium hysterophorus L.,United States of America,0.812698,ok
+23.5863,81.173004,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,India,0.531184,ok
+20.716842,70.964461,Parthenium hysterophorus L.,India,0.39014,ok
+18.52059,73.83783,Lantana camara L.,India,0.373812,ok
+11.73706,77.984652,Prosopis juliflora (Sw.) DC.,India,0.252663,ok
+18.567668,73.808984,Prosopis juliflora (Sw.) DC.,India,0.377409,ok
+21.295175,-157.658858,Prosopis juliflora (Sw.) DC.,United States of America,0.232847,ok
+16.377622,78.568036,Prosopis juliflora (Sw.) DC.,India,0.362883,ok
+26.694888,-80.222559,Lantana camara L.,United States of America,0.530941,ok
+23.5863,81.173004,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,India,0.531184,ok
+25.232919,75.838629,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,India,0.434881,ok
+20.793059,-156.571502,Prosopis juliflora (Sw.) DC.,United States of America,-0.026573,ok
+34.088793,-118.11523,Ailanthus altissima (Mill.) Swingle,United States of America,0.475223,ok
+19.497414,73.01317,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,India,0.495932,ok
+30.025562,-81.328379,Lantana camara L.,United States of America,0.126448,ok
+26.266431,-98.215593,Parthenium hysterophorus L.,United States of America,0.229755,ok
+35.264983,-81.140225,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,United States of America,0.407575,ok
+18.95,72.7833,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,India,-0.332489,ok
+30.468184,-97.606879,Parthenium hysterophorus L.,United States of America,0.316867,ok
+29.2638,-98.578636,Prosopis juliflora (Sw.) DC.,United States of America,0.395764,ok
+23.84,78.74,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,India,0.164149,ok
+25.332444,76.625083,Prosopis juliflora (Sw.) DC.,India,0.564069,ok
+42.277816,-71.851071,Ailanthus altissima (Mill.) Swingle,United States of America,0.47925,ok
+17.431946,78.550158,Prosopis juliflora (Sw.) DC.,India,0.219627,ok
+22.836062,69.285466,Prosopis juliflora (Sw.) DC.,India,0.556661,ok
+18.52284,73.83897,Lantana camara L.,India,0.348225,ok
+24.04646,79.0469,Ailanthus altissima (Mill.) Swingle,India,0.411504,ok
+41.157478,-85.471442,Ailanthus altissima (Mill.) Swingle,United States of America,0.519775,ok
+21.922261,-159.525528,Lantana camara L.,United States of America,0.525719,ok
+35.115827,-85.925207,Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep,United States of America,0.681311,ok
+29.261117,-98.577411,Prosopis juliflora (Sw.) DC.,United States of America,0.462715,ok
+19.119175,-155.819658,Lantana camara L.,United States of America,0.711325,ok
+33.25847,-115.23282,Prosopis juliflora var. juliflora,United States of America,0.065205,ok
